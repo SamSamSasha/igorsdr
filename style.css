@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(65, 5, 5);
+}
+.memes{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    
+}
+img{height:1000px}
